@@ -1,0 +1,57 @@
+export const levaPanelTheme = {
+  colors: {
+    elevation1: 'rgba(241, 245, 249, 0.96)',
+    elevation2: 'rgba(226, 232, 240, 0.72)',
+    elevation3: 'rgba(255, 255, 255, 0.78)',
+    accent1: '#2563eb',
+    accent2: '#1d4ed8',
+    accent3: '#60a5fa',
+    highlight1: '#cbd5e1',
+    highlight2: '#475569',
+    highlight3: '#0f172a',
+    vivid1: '#2563eb',
+    folderWidgetColor: '#475569',
+    folderTextColor: '#0f172a',
+    toolTipBackground: '#0f172a',
+    toolTipText: '#ffffff',
+  },
+  radii: {
+    xs: '4px',
+    sm: '6px',
+    lg: '8px',
+  },
+  space: {
+    xs: '4px',
+    sm: '8px',
+    md: '12px',
+    rowGap: '8px',
+    colGap: '8px',
+  },
+  fontSizes: {
+    root: '12px',
+  },
+  sizes: {
+    rootWidth: '100%',
+    controlWidth: '160px',
+    rowHeight: '30px',
+    folderTitleHeight: '26px',
+    titleBarHeight: '46px',
+  },
+  shadows: {
+    level1: '0 22px 60px rgba(15, 23, 42, 0.18)',
+    level2: '0 10px 28px rgba(15, 23, 42, 0.12)',
+  },
+  borderWidths: {
+    root: '1px',
+    input: '1px',
+    focus: '1px',
+    hover: '1px',
+    active: '1px',
+    folder: '1px',
+  },
+  fontWeights: {
+    label: '600',
+    folder: '700',
+    button: '700',
+  },
+};
